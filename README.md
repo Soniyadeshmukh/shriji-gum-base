@@ -1,0 +1,2 @@
+# shriji-gum-base
+responsive 
